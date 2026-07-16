@@ -2,11 +2,11 @@
 
 ## Referência
 
-CHEW, M. Y. L.; CONEJOS, S.; ASMONE, A. S. *Developing a green maintainability framework for green walls in Singapore*. [Preprint]. Emerald Group Publishing, 2016. 28 p.
+CHEW, Michael Yit Lin; CONEJOS, Sheila. Developing a green maintainability framework for green walls in Singapore. *Structural Survey*, v. 34, n. 4/5, p. 379-406, 2016.
 
 - **Arquivo no acervo:** `2016_ARTIGO_ManutencaoPredial_Chew_Green_Walls_Maintainability_Framework.pdf`
 - **Texto completo:** [Google Drive](https://drive.google.com/file/d/13Efoj3DjQvoXC4FH12Kl4aG7c2EhIcjQ/view?usp=drivesdk)
-- **Tipo:** preprint de artigo; pesquisa qualitativa com casos múltiplos.
+- **Tipo:** artigo; pesquisa qualitativa com casos múltiplos. O arquivo arquivado corresponde ao preprint.
 - **Conferência desta ficha:** texto integral consultado; citações indicadas pela página do PDF, pois a versão arquivada não possui paginação editorial.
 
 ## Síntese detalhada
@@ -38,22 +38,22 @@ O framework organiza fatores técnicos e ambientais desde o projeto para reduzir
 
 ## Citações verificadas
 
-> “sixty-three (63) green wall projects were accessible” (CHEW; CONEJOS; ASMONE, 2016, p. 4 do PDF).
+> “sixty-three (63) green wall projects were accessible” (CHEW; CONEJOS, 2016, p. 4 do PDF arquivado).
 
 Uso recomendado: descrever a abrangência da observação de campo.
 
-> “the top three main issues are biological growth (67%), aesthetics (43%) and climatic conditions (13%)” (CHEW; CONEJOS; ASMONE, 2016, p. 5 do PDF).
+> “the top three main issues are biological growth (67%), aesthetics (43%) and climatic conditions (13%)” (CHEW; CONEJOS, 2016, p. 5 do PDF arquivado).
 
 Uso recomendado: apresentar os problemas mais recorrentes, restritos aos casos de Singapura.
 
-> “maintainability of green technologies [...] need to be given utmost attention at the design stage” (CHEW; CONEJOS; ASMONE, 2016, p. 9 do PDF).
+> “maintainability of green technologies [...] need to be given utmost attention at the design stage” (CHEW; CONEJOS, 2016, p. 9 do PDF arquivado).
 
 Uso recomendado: fundamentar a incorporação da manutenibilidade ainda no projeto.
 
 ## Limitações e cuidados
 
-- A versão no Drive é um preprint sem nomes dos autores, periódico, volume, número, DOI ou paginação editorial no corpo do arquivo.
-- Os autores foram mantidos conforme os metadados do índice do acervo; a referência final precisa ser confirmada antes de submissão científica.
+- A versão no Drive é um preprint sem nomes dos autores ou paginação editorial no corpo do arquivo.
+- A referência da versão publicada foi confirmada na lista bibliográfica de Conejos, Chew e Azril (2019), pertencente ao mesmo conjunto de autores e tema; a autoria correta é Chew e Conejos, sem Asmone.
 - Os casos estão concentrados em Singapura e a generalização global não foi testada.
 - Os nove casos aprofundados são projetos premiados e acessíveis, o que pode introduzir viés de seleção.
 - O framework ainda não apresenta pesos validados nem teste de impacto após implantação.
@@ -69,4 +69,4 @@ Uso recomendado: fundamentar a incorporação da manutenibilidade ainda no proje
 
 ## Como citar em pesquisas do acervo
 
-Use o trabalho como evidência conceitual e empírica sobre manutenibilidade de tecnologias verdes. Antes de incluí-lo na lista final de referências de um artigo, confirme a versão publicada. O [preprint arquivado no Drive](https://drive.google.com/file/d/13Efoj3DjQvoXC4FH12Kl4aG7c2EhIcjQ/view?usp=drivesdk) permite verificar o conteúdo e as páginas indicadas.
+Use o trabalho como evidência conceitual e empírica sobre manutenibilidade de tecnologias verdes. A referência acima corresponde à publicação em *Structural Survey*; o [preprint arquivado no Drive](https://drive.google.com/file/d/13Efoj3DjQvoXC4FH12Kl4aG7c2EhIcjQ/view?usp=drivesdk) permite verificar o conteúdo e as páginas indicadas nesta ficha.
