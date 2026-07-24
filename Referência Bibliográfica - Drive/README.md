@@ -4,9 +4,9 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 
 **Escopo do repositório:** Catálogo transversal de todas as referências acadêmicas do Drive, incluindo itens de baixa aderência e duplicatas sinalizadas.
 
-- Referências selecionadas nesta etapa: **144**
-- Fichas com resumo já disponível: **85**
-- Fichas com arquivo disponível e resumo analítico ainda não cadastrado no índice: **59**
+- Referências selecionadas nesta etapa: **163**
+- Fichas com resumo já disponível: **162**
+- Fichas com arquivo disponível e resumo analítico ainda não cadastrado no índice: **1**
 - Índice geral: [00_INDICE_ACERVO.xlsx](https://docs.google.com/spreadsheets/d/1hpSUv-qeEBpCTeQ0CFDROuTq8rSrmraV/edit)
 - Pasta principal do acervo: [Google Drive](https://drive.google.com/drive/folders/1cNnLTU6ENFIUX5yi6M17QO-o-kfaf5al)
 
@@ -1845,3 +1845,27 @@ As fichas incluem alertas de qualidade para impedir que números não auditávei
 - [Adebowale, Agumba e Chileshe (2026) — UAV para condição predial e segurança](https://github.com/adinailson88/lerArquivosReferencias/blob/main/Refer%C3%AAncia%20Bibliogr%C3%A1fica%20-%20Drive/fichas/2026_ARTIGO_ManutencaoPredial_Adebowale_UAV_Building_Condition_Assessment.md) — Revisão de 33 estudos sobre drones, visão computacional, BIM, gêmeos digitais e governança. [Texto completo no Drive](https://drive.google.com/file/d/1WRhxOiTYrW5Pigm2BoilY1TXRHqC4rOp/view?usp=drivesdk).
 
 Com este lote, os 37 documentos de 01_Manutencao_e_Governanca possuem ficha detalhada, link do texto integral, limitações e orientação de citação.
+/bin/bash: line 1: +x.folder+: command not found
+
+
+## Atualização do acervo — 24/07/2026 — 19 novas referências
+
+- [Pampana, A. K.; Jeon, J.; Yoon, S.; Weidner, T. J.; Hastak, M. (2022) — Data-Driven Analysis for Facility Management in Higher Education Institution](fichas/2022_ARTIGO_FacilityManagement_Pampana_Data_Driven_Higher_Education_FM.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1ahaqVehbFaZzmfw90u6osi6232YrZZej/view).
+- [Mohammed, A. S.; Amoah, C. (2025) — Integration of Technology in Decision-Making in University Facilities Management: A Literature Review](fichas/2025_ARTIGO_FacilityManagement_Mohammed_Technology_Decision_University_FM.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1k2tAd5faXPIw0d0h8le29z-OFLDt99cR/view).
+- [Salton, G.; Buckley, C. (1988) — Term-Weighting Approaches in Automatic Text Retrieval](fichas/1988_ARTIGO_IA_Salton_Buckley_Term_Weighting_Text_Retrieval.md) — . [Texto completo no Drive](https://drive.google.com/file/d/16HdkHSc3wsUgUWhCcah05kYjmGFQsr5o/view).
+- [Joachims, T. (1998) — Text Categorization with Support Vector Machines: Learning with Many Relevant Features](fichas/1998_ARTIGO_IA_Joachims_Text_Categorization_SVM.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1vPRVi3Uc61eL6MRE6P5IeYn0PXSKzvUx/view).
+- [Platt, J. C. (1999) — Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods](fichas/1999_CAPITULO_IA_Platt_Probabilistic_Outputs_SVM.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1ZSsBRXb3BxuYRPAtzsMJ7rn37p7ygPeT/view).
+- [Graves, A.; Schmidhuber, J. (2005) — Framewise Phoneme Classification with Bidirectional LSTM and Other Neural Network Architectures](fichas/2005_ARTIGO_IA_Graves_Bidirectional_LSTM_Phoneme_Classification.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1E7cZ-K2CoQ3UD9aksZJuEqGsquNJGtBT/view).
+- [Sokolova, M.; Lapalme, G. (2009) — A Systematic Analysis of Performance Measures for Classification Tasks](fichas/2009_ARTIGO_IA_Sokolova_Performance_Measures_Classification.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1Rx7FudvuMsp_OZym_p16y-XNwqOuoezL/view).
+- [Pedregosa, F. et al. (2011) — Scikit-learn: Machine Learning in Python](fichas/2011_ARTIGO_IA_Pedregosa_Scikit_Learn_Machine_Learning_Python.md) — . [Texto completo no Drive](https://drive.google.com/file/d/14At-nktV2tajmdJizYO27gOhoqnsWlNC/view).
+- [Guo, C.; Pleiss, G.; Sun, Y.; Weinberger, K. Q. (2017) — On Calibration of Modern Neural Networks](fichas/2017_ARTIGO_IA_Guo_Calibration_Neural_Networks.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1Mh9o_3gZ4R0yvRp6Hy96n1XrUHTgdB1F/view).
+- [Bouabdallaoui, Y.; Lafhaj, Z.; Yim, P.; Ducoulombier, L.; Bennadji, B. (2020) — Natural Language Processing Model for Managing Maintenance Requests in Buildings](fichas/2020_ARTIGO_IA_Bouabdallaoui_NLP_Maintenance_Requests_Buildings.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1lqdAguuG92bOERm5_PSlCdBsLMIE36dv/view).
+- [Schwartz, R.; Dodge, J.; Smith, N. A.; Etzioni, O. (2020) — Green AI](fichas/2020_ARTIGO_IA_Schwartz_Green_AI.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1c_K1bROjO0w8f5nEIbKy3-Pm3TmEQHeg/view).
+- [Galke, L.; Scherp, A. (2022) — Bag-of-Words vs. Graph vs. Sequence in Text Classification: Questioning the Necessity of Text-Graphs and the Surprising Strength of a Wide MLP](fichas/2022_ARTIGO_IA_Galke_BoW_Graph_Sequence_Text_Classification.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1Nwpby-lbV1Op9oLGNQCmdJtj5Yl_Ov3G/view).
+- [Liu, Z.; Benge, C.; Jiang, S. (2023) — Ticket-BERT: Labeling Incident Management Tickets with Language Models](fichas/2023_ARTIGO_IA_Liu_Ticket_BERT_Incident_Management.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1QKHHadItDuoQmnAmTCcMIz7VsYgRsZla/view).
+- [Treviso, M. et al. (2023) — Efficient Methods for Natural Language Processing: A Survey](fichas/2023_ARTIGO_IA_Treviso_Efficient_NLP_Survey.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1IXUpocilxd9iOuLl4BWy8BC0au0WFmqa/view).
+- [Kejriwal, M.; Santos, H.; Shen, K.; Mulvehill, A. M.; McGuinness, D. L. (2024) — A Noise Audit of Human-Labeled Benchmarks for Machine Commonsense Reasoning](fichas/2024_ARTIGO_IA_Kejriwal_Noise_Audit_Human_Labeled_Benchmarks.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1ZzXWDdlJDqHVvCmCJZPUhwsImvn0iVeB/view).
+- [Li, Y.; Liu, Y.; Zhang, J.; Cao, L.; Wang, Q. (2024) — Automated Analysis and Assignment of Maintenance Work Orders Using Natural Language Processing](fichas/2024_ARTIGO_IA_Li_NLP_Maintenance_Work_Orders_Assignment.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1jr4FTT5lMy-mm8TTbQA2hQzIfkFsC3BZ/view).
+- [Sundaram, S.; Zeid, A. (2025) — Technical Language Processing for Prognostics and Health Management: Applying Text Similarity and Topic Modeling to Maintenance Work Orders](fichas/2025_ARTIGO_IA_Sundaram_Technical_Language_Processing_Maintenance_Orders.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1Fyg68snI0SGWGOFCwlk0UAqWNCdXy00x/view).
+- [Zhang, H.; Zhang, Y.; Li, J.; Liu, J.; Ji, L. (2025) — A Survey on Learning with Noisy Labels in Natural Language Processing: How to Train Models with Label Noise](fichas/2025_ARTIGO_IA_Zhang_NLP_Noisy_Labels_Survey.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1jLLAN7auxT9k_dXub_FGK3nDUTcVcuaA/view).
+- [McNemar, Q. (1947) — Note on the Sampling Error of the Difference Between Correlated Proportions or Percentages](fichas/1947_ARTIGO_Estatistica_McNemar_Correlated_Proportions.md) — . [Texto completo no Drive](https://drive.google.com/file/d/1nK1DjlyTaNTd_pipQ9gUM82t-pDseG6t/view).
