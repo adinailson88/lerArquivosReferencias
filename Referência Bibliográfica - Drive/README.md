@@ -4,9 +4,10 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 
 **Escopo do repositório:** Catálogo transversal de todas as referências acadêmicas do Drive, incluindo itens de baixa aderência e duplicatas sinalizadas.
 
-- Referências selecionadas nesta etapa: **163**
-- Fichas com resumo já disponível: **162**
-- Fichas com arquivo disponível e resumo analítico ainda não cadastrado no índice: **1**
+- Referências/fichas consolidadas: **184**
+- Fichas individuais publicadas: **184**
+- Pendências de publicação: **0**
+- Estado consolidado em: **26/07/2026** — situação detalhada em [STATUS_FICHAS.md](STATUS_FICHAS.md)
 - Índice geral: [00_INDICE_ACERVO.xlsx](https://docs.google.com/spreadsheets/d/1hpSUv-qeEBpCTeQ0CFDROuTq8rSrmraV/edit)
 - Pasta principal do acervo: [Google Drive](https://drive.google.com/drive/folders/1cNnLTU6ENFIUX5yi6M17QO-o-kfaf5al)
 
@@ -21,7 +22,7 @@ Esta pasta reúne referências do acervo bibliográfico mantido no Google Drive 
 ## Plano de atualização por etapas
 
 - **Etapa 1 — concluída neste arquivo:** inventário, seleção por aderência, links diretos e incorporação dos resumos já existentes.
-- **Etapa 2:** elaboração de resumos analíticos completos dos itens ainda sem síntese cadastrada, processados por pasta do Drive na ordem 01 a 08, com citações, páginas e conferência no texto original.
+- **Etapa 2 — fichas individuais publicadas (184/184; ver [STATUS_FICHAS.md](STATUS_FICHAS.md)):** os resumos analíticos completos, com citações, páginas e conferência no texto original, estão disponíveis nas fichas individuais em `fichas/`. O resumo exibido abaixo, entrada a entrada, pode não estar sincronizado com a ficha publicada nos itens regularizados mais recentemente; use sempre a ficha detalhada (link "Ficha detalhada" de cada entrada) como referência.
 - **Etapa 3:** revisão da aderência específica ao repositório e inclusão de trechos de uso recomendado, limitações e páginas relevantes.
 - **Etapa 4:** atualização contínua quando novos documentos forem adicionados ao índice do acervo.
 
